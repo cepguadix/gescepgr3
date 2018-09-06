@@ -1,2 +1,2 @@
 # gescepgr3
-Gestión interna asesorías
+Gestión interna del equipo asesor
